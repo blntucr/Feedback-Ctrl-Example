@@ -1,3 +1,3 @@
 # Feedback-Ctrl-Example
 
-Adding K gain to a system and observing the differences
+Adding K gain to a system and observing step and ramp responses.
